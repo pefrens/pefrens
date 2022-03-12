@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pefrens
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python and sql
-- 💞️ I’m looking to collaborate on data alaisys project
+- 💞️ I’m looking to collaborate on data analysis project
 - 📫 How to reach me ...
 
 <!---
